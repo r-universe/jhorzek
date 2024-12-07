@@ -8,3 +8,6 @@
 [submodule "mxsem"]
 	path = mxsem
 	url = https://github.com/jhorzek/mxsem
+[submodule "tablespan"]
+	path = tablespan
+	url = https://github.com/jhorzek/tablespan
